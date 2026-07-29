@@ -1,5 +1,8 @@
 {
   "name": "rly-marketing",
+  "metadata": {
+    "description": "Properly's internal marketing tooling for Claude — brand-voice copywriting and evaluation plugins."
+  },
   "owner": {
     "name": "Properly",
     "email": "dev@properly.studio",
