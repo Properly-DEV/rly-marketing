@@ -1,0 +1,15 @@
+{
+  "name": "rly-marketing-copy",
+  "displayName": "RLY Marketing Copy",
+  "description": "Writes and evaluates Properly marketing copy across website, blog, LinkedIn, and X. Applies the brand Voice & Format Guide, a storytelling toolkit, trend/topic packs, a strict anti-AI-tells pass, and a scorecard (trend fit, persona fit, master-prompt compliance) on every draft.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Properly",
+    "email": "dev@properly.studio",
+    "url": "https://properly.studio"
+  },
+  "homepage": "https://github.com/Properly-DEV/rly-marketing",
+  "repository": "https://github.com/Properly-DEV/rly-marketing",
+  "license": "MIT",
+  "keywords": ["marketing", "copywriting", "content", "branding", "fintech"]
+}
