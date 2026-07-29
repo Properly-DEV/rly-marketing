@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "rly-marketing",
   "owner": {
     "name": "Properly",
@@ -9,7 +8,6 @@
   "plugins": [
     {
       "name": "rly-marketing-copy",
-      "displayName": "RLY Marketing Copy",
       "source": "./plugins/rly-marketing-copy",
       "description": "Writes and evaluates Properly marketing copy — website, blog, LinkedIn, X. Brand voice guide, storytelling toolkit, trend/topic packs, anti-AI-tells pass, and a scorecard on every draft.",
       "version": "1.0.0",
