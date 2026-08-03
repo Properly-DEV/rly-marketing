@@ -21,7 +21,19 @@ The reference files carry the real substance. This file is the map and the workf
 
 ## Workflow
 
-Two modes. **Write mode** (the default): follow steps 1–6. **Evaluate mode**: someone pastes a finished post (their own, a teammate's, an old draft) and wants it judged, not rewritten — cues like "score this post," "is this on-brand," "which persona does this hit," "review this draft." In evaluate mode, skip the writing (step 4) and go straight to step 6, scoring the pasted text as-is. Detect channel and topic first (step 1) so you score against the right rules; the core-message confirmation in step 1 applies to write mode only.
+Two modes. **Write mode** (the default): follow steps 1–7. **Evaluate mode**: someone pastes a finished post (their own, a teammate's, an old draft) and wants it judged, not rewritten — cues like "score this post," "is this on-brand," "which persona does this hit," "review this draft." In evaluate mode, skip the writing (step 4) and go straight to step 7, scoring the pasted text as-is. Detect channel and topic first (step 1) so you score against the right rules; the core-message confirmation in step 1 applies to write mode only. Every write-mode result is assembled in the fixed **Output order** below.
+
+## Output order — always, every destination
+
+Every write-mode result ships as one block in this exact order, whether it lands in an Obsidian note, a Claude artifact, a chat reply, or anywhere else. Same order every time, so anyone opening a Properly draft knows where to look. Never reorder these:
+
+1. **Overview** — the narrative/thesis in one line, the topic pack in play, the ICP/persona, and the core message. Any working notes or sources live here, at the top.
+2. **LinkedIn** — the post.
+3. **X** — the post or thread.
+4. **Next posts** — three follow-up ideas on the same topic, one sentence each (step 6).
+5. **Scorecard** — always the final block (step 7).
+
+If the user asks for several versions of one topic at once, each full draft repeats this same order.
 
 ### 1. Detect the channel, the topic, and the core message
 
@@ -63,11 +75,24 @@ Before showing anything, run the checklist at the bottom of `anti-ai-tells.md`. 
 
 Then the rest: numbers trace to §5, rhythm isn't a metronome, no over-bolding or emoji-bullets or title-case headers, and the say-it-out-loud test passes. Fix before presenting, don't present with caveats.
 
-### 6. Score the draft (always)
+### 6. Propose three next angles
 
-Run `references/scorecard.md` and append the scorecard block beneath the copy. This is not optional — every generated draft ships with its self-assessment on the three dimensions (trend fit, persona fit, master-prompt compliance), a verdict, and ranked fixes. Score honestly; an all-5s scorecard is a red flag, not a win.
+After the post, always propose three follow-up posts: the same topic, a different angle each, one sentence apiece. Social feeds forget fast, so a fresh take on the same subject lands again a couple of weeks later without reading as a repeat. Pull the angles from the topic pack's other theses and from different hooks and frameworks in `storytelling-toolkit.md`, so each is a genuinely different take rather than the same post reworded. Use this shape:
 
-If this draft is a revision of one already scored this session, show the per-dimension delta (was N ▲/▼) so the improvement is visible. In evaluate mode, the scorecard *is* the deliverable — lead with it.
+```
+Next posts (same topic, different angles):
+1. <angle> — <one sentence on the take>
+2. <angle> — <one sentence>
+3. <angle> — <one sentence>
+```
+
+If the user wants, write any or all of them as full drafts, each following the same Output order. One topic or one brain dump then becomes several ready posts to pick the best from or bank for later. When they brief a topic and ask up front for "a few versions" or "all the angles," skip straight to writing the set — one full draft per angle, each with its own scorecard.
+
+### 7. Score the draft (always, the last block)
+
+Run `references/scorecard.md` and place the scorecard as the **final block**, after the three proposals. This is not optional — every generated draft ships with its self-assessment on the three dimensions (trend fit, persona fit, master-prompt compliance), a verdict, and ranked fixes. Score honestly; an all-5s scorecard is a red flag, not a win.
+
+If this draft is a revision of one already scored this session, show the per-dimension delta (was N ▲/▼) so the improvement is visible. In evaluate mode, the scorecard *is* the deliverable — lead with it, and you can still offer three next angles after it.
 
 ## When handing back
 
