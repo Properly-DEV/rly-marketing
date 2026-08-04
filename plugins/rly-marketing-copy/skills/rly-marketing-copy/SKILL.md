@@ -69,7 +69,7 @@ Only start once the core message from step 1 is locked. Build the whole piece to
 
 Before showing anything, run the checklist at the bottom of `anti-ai-tells.md`. The three that catch the most, every time:
 
-1. **Negative comparison** — no "not X but Y," "it's not about X, it's Y," "doesn't just X, it Y," no stacked contrasts. Rewrite as a positive statement of what the thing IS. This is the number-one tell.
+1. **Negative comparison** — no "not X but Y," "it's not about X, it's Y," "doesn't just X, it Y," no stacked contrasts. Rewrite as a positive statement of what the thing IS. This is the number-one tell. (Guide §2 allows exactly one exception: a single reversal as a closing line, both halves factually true.)
 2. **Banned words** — check the guide's §2 list *and* the extended list in `anti-ai-tells.md`. Replace with the specific thing or cut.
 3. **Length vs channel** — measure against §3 for this exact channel. LinkedIn and X are counted in **characters, not words** (finance words run long, so a word count reads short). Check the character band, and on LinkedIn watch the paragraph count too: 6+ blocks reads long even inside the limit.
 

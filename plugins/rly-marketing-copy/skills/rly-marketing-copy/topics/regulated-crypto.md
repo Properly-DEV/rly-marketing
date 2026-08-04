@@ -31,7 +31,7 @@ KYC and KYB · Travel Rule · proof of funds · source of wealth checks · crypt
 - **"The regulated-crypto winners won't have the most features. They'll make complex rules feel navigable."** Strongest thought-leadership. For exchanges, CASPs, custody providers, tokenization platforms.
 
 ## §5 client examples to anchor with
-- NDAX (Canada's most regulated crypto exchange) is the strongest §5 anchor. Kado (on/off ramp) and Quantstamp (security infra for protocols holding user assets) support the trust-and-safety story. Numbers stay in §5.
+- NDAX (Canada's largest regulated crypto exchange) is the strongest §5 anchor. Kado (on/off ramp) and Quantstamp (security infra for protocols holding user assets) support the trust-and-safety story. Numbers stay in §5.
 
 ## External companies referenced (NOT Properly clients — never imply otherwise)
 - ESMA and regulatory bodies are references, not clients.

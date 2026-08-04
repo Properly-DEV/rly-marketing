@@ -29,7 +29,7 @@ fractional investing · mobile-first brokers · active ETFs · leveraged ETFs ·
 - **"As investing gets more accessible, the challenge isn't more choices. It's helping people make better ones."** Most user-centred; a broad wealth-tech angle.
 
 ## §5 client examples to anchor with
-- Axi (regulated FX broker) and NDAX (Canada's most regulated crypto exchange) are the strongest §5 anchors for the access-plus-responsibility story. Moto (financial card) supports the consumer-wealth angle. Numbers stay in §5.
+- Axi (regulated FX broker) and NDAX (Canada's largest regulated crypto exchange) are the strongest §5 anchors for the access-plus-responsibility story. Moto (financial card) supports the consumer-wealth angle. Numbers stay in §5.
 
 ## External companies referenced (NOT Properly clients — never imply otherwise)
 - Keep any named broker/app example clearly external.

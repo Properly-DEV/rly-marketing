@@ -92,7 +92,7 @@ nestled · boasts · brimming with · steeped in · breathtaking · stunning · 
 
 Run this on every draft before showing it. The first three are the guide's own top-three failure points, promoted here because they catch the most.
 
-1. **Negative comparison** — scan for "not X but Y," "it's not about X, it's Y," "doesn't just X, it Y," and back-to-back contrasts. This is the number-one tell. Rewrite as a positive statement of what the thing IS.
+1. **Negative comparison** — scan for "not X but Y," "it's not about X, it's Y," "doesn't just X, it Y," and back-to-back contrasts. This is the number-one tell. Rewrite as a positive statement of what the thing IS. The guide's §2 now allows one exception: a single reversal used as a closing line, where both halves are factually true. Anywhere else in the text, or stacked, it's still the tell.
 2. **Banned words** — check against the guide's §2 list *and* section 1 above. Any hit gets cut or replaced with the specific thing.
 3. **Length vs channel** — measure against the guide's §3 spec for this exact channel.
 4. **Numbers are real** — every figure traces to §5 of the guide. No exceptions.
