@@ -1,7 +1,7 @@
 {
   "name": "rly-marketing-copy",
   "description": "Writes and evaluates Properly marketing copy across website, blog, LinkedIn, and X. Applies the brand Voice & Format Guide, a storytelling toolkit, trend/topic packs, a strict anti-AI-tells pass, and a scorecard (trend fit, persona fit, master-prompt compliance) on every draft.",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "author": {
     "name": "Properly",
     "email": "dev@properly.studio",

@@ -36,6 +36,7 @@ Score against the guide's §6 ICP cheat sheet (Operator / Builder / Founder, 40/
 - **Name the primary persona** the draft targets. A post should have one clear reader, not address all three at once.
 - **Does it follow that persona's "Say"** and avoid its "Don't say"? Examples: an Operator post that opens with process (not outcome) misses; a Builder post that leads with aesthetic vision before a product observation misses; a Founder post with a discovery-questionnaire tone misses.
 - **Right reader for the channel?** A CMO-facing brand argument reads differently on X than on the website.
+- **Company post — does it deliver?** A Properly company post should hand the reader a solution, a design decision, or a concrete approach grounded in a real project (see `company-showcase.md`); one that only poses a thought or ends on a bare question misses the account's showcase job.
 - Judge whether the post speaks to a real, specific reader, not a generic "audience."
 
 If the draft targets no identifiable persona, that's a 2: it's talking to everyone and landing with no one.

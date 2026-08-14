@@ -14,6 +14,7 @@ The reference files carry the real substance. This file is the map and the workf
 
 - `references/properly-voice-guide.md` — **the frozen source of truth.** The full Voice & Format Guide, verbatim. It owns Properly's voice, the Five Rules, the banned words, the per-channel format/length specs (§3), the keywords (§4), the ICP personas (§6), and the **only approved list of client numbers and proof points (§5)**. Never edit it.
 - `references/storytelling-toolkit.md` — the craft: hooks, PAS/BAB/StoryBrand, narrative arc, show-don't-tell, the "so what?" ladder, open loops, rhythm.
+- `references/company-showcase.md` — **the Properly company-post shape** (thesis → deepen → solution → visualization), grounded in a real project and closing on the solution. Read it for any substantive company post; it's what separates a showcase from a "website for XYZ" caption.
 - `references/anti-ai-tells.md` — the anti-AI layer: extended banned words, structural/formatting/tonal/rhythm tells, and the pre-ship checklist. Run this every time.
 - `examples/properly-examples.md` — Properly's canonical specimens plus before/after pairs.
 - `topics/_index.md` — registry of theme packs (ETF, RWA, stablecoins, regulated crypto, fraud, agentic finance, and more). Each pack carries SEO keywords, trending angles, ready-made narrative theses, and the §5 clients that anchor the theme. Read the index to pick the right pack when a post has a clear subject.
@@ -64,6 +65,8 @@ Topic packs contain **external market-context figures** (industry AUM, market-si
 ### 4. Write
 
 Only start once the core message from step 1 is locked. Build the whole piece to land that one point. Open on a real hook (a specific, a position, a moment — never a throat-clear). Pick a structure from the toolkit that fits the piece; a short post might lean on one technique, a blog article on several. Enter the conversation already in the reader's head. Show, don't tell. Vary sentence length hard. Hold to the channel's length spec in §3. Keep the reader ("your") as the subject more than the studio ("we").
+
+For a **Properly company post**, default to the showcase shape in `company-showcase.md`: thesis → deepen (grounded in a real project — NDAX nameable for compliance/trading/payments, the RWA/security-token work kept nameless) → solution → visualization. **Close on the solution, not a question** — the company account exists to hand the reader something real, not to leave a thought hanging.
 
 ### 5. Pre-ship anti-AI pass (the gate)
 
