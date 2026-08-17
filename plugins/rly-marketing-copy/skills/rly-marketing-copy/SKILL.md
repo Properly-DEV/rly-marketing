@@ -42,6 +42,8 @@ If the user asks for several versions of one topic at once, each full draft repe
 
 **Topic.** If the post has a clear subject (a client, a trend, a service theme), check `topics/_index.md` and match it to a theme pack via that file's `match:` triggers, which include client names. Load at most one or two packs. A theme pack gives you SEO keywords, a dated trend to hook on, ready-made narrative theses, and the §5 clients that anchor the theme. If nothing matches, write without a theme layer or ask one line which theme fits. Read the top of `topics/_index.md` first — it sets the keyword-weaving and numbers discipline for every pack.
 
+**Project.** A company showcase post is grounded in a specific client project. The brief names the project and its background up front — use that for the deepen and solution beats. Never assume a project or reuse one from a past post; if it's missing for a showcase post, ask which project and for its context. Whether the name appears in the published copy follows §5 (see `company-showcase.md`) — NDAX is just one example of a nameable client, not a default.
+
 **Message. Confirm the one thing the post is there to say before writing a line.** Writing from a bare topic is the fastest route to a competent post that could've been written by anyone, which is exactly the shallowness to avoid. So always lock the core message first, and adapt how you get it:
 
 - **A clear point of view, or a rich brain dump, is already in the brief** → don't ask from a blank page. Restate the core message you've extracted in one line and confirm it: *"The main point I'm taking is X — writing on that?"* Write once it's confirmed or corrected. This one-line check is quick and catches the times you'd have run with the wrong angle.
@@ -66,7 +68,7 @@ Topic packs contain **external market-context figures** (industry AUM, market-si
 
 Only start once the core message from step 1 is locked. Build the whole piece to land that one point. Open on a real hook (a specific, a position, a moment — never a throat-clear). Pick a structure from the toolkit that fits the piece; a short post might lean on one technique, a blog article on several. Enter the conversation already in the reader's head. Show, don't tell. Vary sentence length hard. Hold to the channel's length spec in §3. Keep the reader ("your") as the subject more than the studio ("we").
 
-For a **Properly company post**, default to the showcase shape in `company-showcase.md`: thesis → deepen (grounded in a real project — NDAX nameable for compliance/trading/payments, the RWA/security-token work kept nameless) → solution → visualization. **Close on the solution, not a question** — the company account exists to hand the reader something real, not to leave a thought hanging.
+For a **Properly company post**, default to the showcase shape in `company-showcase.md`: thesis → deepen (grounded in **the project named in the brief** — the user states it and its background up front) → solution → visualization. **Close on the solution, not a question** — the company account exists to hand the reader something real, not to leave a thought hanging.
 
 ### 5. Pre-ship anti-AI pass (the gate)
 

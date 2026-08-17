@@ -15,13 +15,14 @@ Most substantive company posts follow this arc:
 
 Not every post is a full case (a testimonial or a reaction stays short). But the substantive ones deliver, in this order.
 
-## Ground it in the work — and mind the naming
+## Ground it in a project — the brief names it
 
-Map the topic to a real project and show how we did it: the problem we hit, our solution. Naming follows §5.
+The project comes from the brief. You'll be told which project the post is about, and its background, at the start — that's the raw material for the "deepen" and "solution" beats. Never assume a project or reuse one from a past post. If a company showcase post arrives without a project, ask which one and for its context.
 
-- **KYC / compliance / trading / payments → NDAX.** Nameable (§5). Show how we designed the verification step, the Pro Trading interface, the flow: "how we did it for NDAX, what the problem was, what we shipped."
-- **RWA / security tokens / leverage UX → keep it nameless.** Describe it as "a regulated security-token platform." That project isn't on §5's named list, so show the work, never the name. Show how the user operates leverage, how the multi-asset wallet reads, how compliance shapes the flow.
-- **Other topics → the §5 client that anchors that theme** (each topic pack names it). Numbers only from §5; market stats from packs stay external.
+**Naming in the published copy follows §5, not the brief.** Name the project only if it's a §5-approved client; otherwise describe the work generically ("a regulated security-token platform," "a Canadian exchange"), even when the brief names it, unless the brief says the project is cleared to name. Numbers only from §5; market stats from packs stay external.
+
+- Example of a nameable client: **NDAX** (§5) — fine to name for its compliance, trading or payments work. It's an illustration, not a default; most posts will be about a different project.
+- Example of a nameless one: the **RWA / security-token project** — not on §5's named list, so show the work (how the user operates leverage, how the multi-asset wallet reads), never the name.
 
 ## Close on the solution, not a question
 
