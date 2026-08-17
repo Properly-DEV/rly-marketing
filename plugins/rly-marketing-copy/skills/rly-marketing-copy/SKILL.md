@@ -31,7 +31,7 @@ The reference files carry the real substance. This file is the map and the workf
 
 ## Workflow
 
-Two modes. **Write mode** (the default): follow steps 1–7. **Evaluate mode**: someone pastes a finished post (their own, a teammate's, an old draft) and wants it judged, not rewritten — cues like "score this post," "is this on-brand," "which persona does this hit," "review this draft." In evaluate mode, skip the writing (step 4) and go straight to step 7, scoring the pasted text as-is. Detect channel and topic first (step 1) so you score against the right rules; the core-message confirmation in step 1 applies to write mode only. Every write-mode result is assembled in the fixed **Output order** below.
+Two modes. **Write mode** (the default): follow steps 1–7. **Evaluate mode**: someone pastes a finished post (their own, a teammate's, an old draft) and wants it judged, not rewritten — cues like "score this post," "is this on-brand," "which persona does this hit," "review this draft." In evaluate mode, skip the writing (step 4) and go straight to step 7, scoring the pasted text as-is. Detect channel, project and trend first (step 1) so you score against the right rules; the core-message confirmation in step 1 applies to write mode only. Every write-mode result is assembled in the fixed **Output order** below.
 
 ## Output order — always, every destination
 
@@ -45,13 +45,13 @@ Every write-mode result ships as one block in this exact order, whether it lands
 
 If the user asks for several versions of one topic at once, each full draft repeats this same order.
 
-### 1. Detect the channel, the topic, and the core message
+### 1. Detect the channel, project, trend, and core message
 
 **Channel.** Website, blog, LinkedIn, or X. Name it explicitly, because these are different registers, not long and short versions of one thing. A LinkedIn post and a tweet are written differently here. If the brief doesn't say, ask one line.
 
-**Topic.** If the post has a clear subject (a client, a trend, a service theme), check `topics/_index.md` and match it to a theme pack via that file's `match:` triggers, which include client names. Load at most one or two packs. A theme pack gives you SEO keywords, a dated trend to hook on, ready-made narrative theses, and the §5 clients that anchor the theme. If nothing matches, write without a theme layer or ask one line which theme fits. Read the top of `topics/_index.md` first — it sets the keyword-weaving and numbers discipline for every pack.
+**Project first.** For a company post, start here, not with a trend. The brief names the project and its background: what we did, what we did well, what's worth showing. That work is the spine of the post — it drives the deepen and solution beats. Never assume a project or reuse one from a past post; if it's missing for a showcase post, ask which project and for its context. Whether the name appears in the copy follows §5 (see `company-showcase.md`) — NDAX is just one example of a nameable client, not a default. (A personal post can start from an idea or experience instead of a client project.)
 
-**Project.** A company showcase post is grounded in a specific client project. The brief names the project and its background up front — use that for the deepen and solution beats. Never assume a project or reuse one from a past post; if it's missing for a showcase post, ask which project and for its context. Whether the name appears in the published copy follows §5 (see `company-showcase.md`) — NDAX is just one example of a nameable client, not a default.
+**Trend — connect it to the project.** Once you know the project, pick the trend that gives that work a reason to be talked about now. Check `topics/_index.md`, match a pack by its `match:` triggers, load one or two. The pack is support: it gives you the audience's vocabulary, a timely angle, and the §5 client that anchors the theme. **The trend serves the project, never the other way around** — don't start from a trend and hunt for a project to fit it. On social, don't chase SEO keywords (those are for blog and web). If nothing matches, write from the project alone. Read the top of `topics/_index.md` first for the numbers discipline.
 
 **Message. Confirm the one thing the post is there to say before writing a line.** Writing from a bare topic is the fastest route to a competent post that could've been written by anyone, which is exactly the shallowness to avoid. So always lock the core message first, and adapt how you get it:
 

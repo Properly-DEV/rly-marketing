@@ -19,6 +19,8 @@ Not every post is a full case (a testimonial or a reaction stays short). But the
 
 The project comes from the brief. You'll be told which project the post is about, and its background, at the start — that's the raw material for the "deepen" and "solution" beats. Never assume a project or reuse one from a past post. If a company showcase post arrives without a project, ask which one and for its context.
 
+**The project leads, the trend follows.** Start from what we did well and want to show, then pick the trend that gives it a reason to be talked about now. Never start from a trend and bend a project to fit it.
+
 **Naming in the published copy follows §5, not the brief.** Name the project only if it's a §5-approved client; otherwise describe the work generically ("a regulated security-token platform," "a Canadian exchange"), even when the brief names it, unless the brief says the project is cleared to name. Numbers only from §5; market stats from packs stay external.
 
 - Example of a nameable client: **NDAX** (§5) — fine to name for its compliance, trading or payments work. It's an illustration, not a default; most posts will be about a different project.

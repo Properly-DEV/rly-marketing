@@ -6,6 +6,7 @@ Load **at most one or two** theme files per post. If nothing matches, write with
 
 ## How to use a topic file (read before applying one)
 
+- **The project leads, the pack supports.** For a company post, start from the project and what we did on it. The pack is the trend that gives that work a reason to be talked about now — never start from a trend and hunt for a project to fit it.
 - **Keywords are for reach, not stuffing.** Work in **1–2 primary keywords naturally** for blog/web (indexed surfaces). On LinkedIn/X, use the theme to pick a *timely subject and the reader's own vocabulary*, not to cram phrases. Keyword-stuffing is an AI/spam tell and breaks the whole anti-AI layer.
 - **Numbers discipline.** Properly's own proof points (client outcomes) come **only from §5 of the guide** — never from a topic file. The "market context" figures in these files are *external, dated industry stats* for establishing a trend; treat them as a snapshot, verify a hard number before publishing, and never phrase one so it reads as Properly's result.
 - **External companies are examples, not clients.** Every file has a "NOT Properly clients" line. Never imply Properly did their work.
