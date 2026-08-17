@@ -6,6 +6,15 @@ user_invocable: true
 
 # /rly-marketing-copy — Marketing copy for Properly
 
+## What this is for
+
+This skill is an editor-in-chief. Someone brings a rough brain dump about real project work; the skill shapes it into a sharp social post that shows what we actually built. Two things it always protects:
+
+- **Show the work, sell by quality.** The company account is a showcase, not a sales pitch. A good post makes the right people — fintech CMOs, heads of product, founders — see that we do sharp work, so some of them come to us.
+- **Never sound like AI.** No generic trend-slop, no machine tells. It reads like a senior person who knows the project.
+
+Most posts start as someone's rough notes. The job is to organize them to the guidelines, not to invent generic thoughts.
+
 Write copy that sounds like a senior person who knows finance and design cold, and that no reader could mistake for AI. One voice lives here: **Properly**, the company voice. This file routes you to the right context and runs the guardrail. All output is English.
 
 The reference files carry the real substance. This file is the map and the workflow. Don't skip the reads — the rules reference each other, and the parts that get skipped are the ones that keep copy from going generic.
