@@ -26,9 +26,13 @@ The project comes from the brief. You'll be told which project the post is about
 - Example of a nameable client: **NDAX** (§5) — fine to name for its compliance, trading or payments work. It's an illustration, not a default; most posts will be about a different project.
 - Example of a nameless one: the **RWA / security-token project** — not on §5's named list, so show the work (how the user operates leverage, how the multi-asset wallet reads), never the name.
 
-## Close on the solution, not a question
+## Let the conclusion land on its own
 
-The company post ends on the result or the design decision, not on "what do you think?" or "how are you handling this?". A light engagement line is fine once the payoff has landed, but the deliverable is the solution and the reader should leave holding it.
+The company post ends on the payoff, but the reader has to arrive there themselves. A good showcase makes someone in the audience think "that's my problem too," and a beat later, "these people know how to fix it." You never say that outright. You show the work clearly enough that the realisation is theirs.
+
+So don't label the ending. No "The result:", "Bottom line:", "Key takeaway:", "In short:", "The lesson:". A stamped summary reads as machine-made. If the payoff needs a label to feel like a conclusion, the last line isn't doing its job — rewrite it so the point lands in the sentence itself. Close on the outcome or the design decision, not on a question, but let it read like the natural end of a thought.
+
+Different posts reach different readers (see §6 — Operator, Builder, Founder). That's the point of writing several: each one lets a different person recognise their own problem in our work.
 
 ## Stay on the channel split
 

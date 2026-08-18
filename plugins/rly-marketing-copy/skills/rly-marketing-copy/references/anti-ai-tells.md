@@ -59,6 +59,8 @@ nestled · boasts · brimming with · steeped in · breathtaking · stunning · 
 - **Over-explaining the obvious.** Defining KYC to an audience of fintech founders. → Trust the reader. The guide's Rule 1 says the same.
 - **Personifying abstractions.** "The data tells a story," "the market spoke." → People act, concepts don't.
 
+- **Labeled conclusions.** "The result:", "Bottom line:", "Key takeaway:", "In short:", "TL;DR:", "The lesson:". A stamped summary is a machine move — a person doesn't announce their own conclusion. → Let the point land in the last sentence; if it needs a label to feel like a conclusion, rewrite the sentence.
+
 ## 3. Formatting tells
 
 - **Over-bolding.** Mechanically bolding key terms across a paragraph. → Bold almost nothing. (The guide's blog spec allows bolding a key term *once* when it's introduced. That's the ceiling.)
@@ -88,6 +90,13 @@ nestled · boasts · brimming with · steeped in · breathtaking · stunning · 
 
 ---
 
+## 6. Factory tells — when you write more than one post
+
+The biggest tell across a set of posts isn't in any single one. It's sameness.
+
+- **One recipe, every post.** Same opener move, same middle, same closing shape, the same stock phrase in beat two. Each post can be clean on its own and the set still reads as machine-generated, because a person doesn't write eight things to one template.
+- **The fix: each post is a separate thought.** Write it from scratch, as if the others don't exist; don't look at the shape of the last one. A series can share a project and an undertone — that's fine, it's a series — but never a skeleton. Vary the opening, the structure, the rhythm, and the ending across the set. Aim for posts that read like loose thoughts from someone who knows the work, not entries from a content factory.
+
 ## Pre-ship checklist
 
 Run this on every draft before showing it. The first three are the guide's own top-three failure points, promoted here because they catch the most.
@@ -100,3 +109,5 @@ Run this on every draft before showing it. The first three are the guide's own t
 6. **Density scan** — read any 150-word stretch. If three or more tells from this file cluster there, that passage is the weak point. Fix it before anything else.
 7. **Opening** — is the first line a real hook (a specific, a position, a moment), or a throat-clear? If it could open a competitor's post unchanged, rewrite it.
 8. **The say-it-out-loud test** — would a senior person actually say this to a peer? If it sounds like a brand or a bot, it's not done.
+9. **No labeled ending** — the point lands in the last sentence, not after a "Bottom line:" / "The result:" / "Key takeaway:" stamp.
+10. **Not from a factory** — if this is one of several posts, is it a separate thought, or the same skeleton as its siblings? Same recipe across posts is the batch tell.

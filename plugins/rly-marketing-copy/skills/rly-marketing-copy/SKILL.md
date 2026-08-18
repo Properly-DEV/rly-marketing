@@ -77,7 +77,7 @@ Topic packs contain **external market-context figures** (industry AUM, market-si
 
 Only start once the core message from step 1 is locked. Build the whole piece to land that one point. Open on a real hook (a specific, a position, a moment — never a throat-clear). Pick a structure from the toolkit that fits the piece; a short post might lean on one technique, a blog article on several. Enter the conversation already in the reader's head. Show, don't tell. Vary sentence length hard. Hold to the channel's length spec in §3. Keep the reader ("your") as the subject more than the studio ("we").
 
-For a **Properly company post**, default to the showcase shape in `company-showcase.md`: thesis → deepen (grounded in **the project named in the brief** — the user states it and its background up front) → solution → visualization. **Close on the solution, not a question** — the company account exists to hand the reader something real, not to leave a thought hanging.
+For a **Properly company post**, default to the showcase shape in `company-showcase.md`: thesis → deepen (grounded in **the project named in the brief** — the user states it and its background up front) → solution → visualization. **Close on the solution, not a question, and never with a label** ("The result:", "Bottom line:", "Key takeaway:") — let the point land in the sentence itself, so the reader arrives at it on their own (see `company-showcase.md`). An open-ended close belongs to a personal post, not the company account, which exists to hand the reader something real.
 
 ### 5. Pre-ship anti-AI pass (the gate)
 
@@ -100,7 +100,7 @@ Next posts (same topic, different angles):
 3. <angle> — <one sentence>
 ```
 
-If the user wants, write any or all of them as full drafts, each following the same Output order. One topic or one brain dump then becomes several ready posts to pick the best from or bank for later. When they brief a topic and ask up front for "a few versions" or "all the angles," skip straight to writing the set — one full draft per angle, each with its own scorecard.
+If the user wants, write any or all of them as full drafts, each following the same Output order. One topic or one brain dump then becomes several ready posts to pick the best from or bank for later. When they brief a topic and ask up front for "a few versions" or "all the angles," skip straight to writing the set — one full draft per angle, each with its own scorecard. **Write each as a separate thought: start from scratch, as if the other posts don't exist, and don't reuse their shape.** A series can share the project and an undertone, never a skeleton — vary the opener, the structure, and the ending across the set (see the factory tells in `anti-ai-tells.md`).
 
 ### 7. Score the draft (always, the last block)
 
